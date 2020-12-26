@@ -519,10 +519,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Well Done!
-
-    as you are leaving the reindeer hands you a note with
-    the phrase "baubles" on it.'
+  m_text: Well done you have stacked all the plates! on finishing, a kitchen porter
+    takes pity on you both and hands you a note with the phrase 'Baubles' on it.
+    He whispers "use this to bribe the Chef to let you leave". Delighted you now
+    have the answer you need to leave!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
